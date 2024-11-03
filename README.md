@@ -1,5 +1,7 @@
+## DEVELOPED BY: S JAIGANESH
+## REGISTER NO: 212222240037
+## DATE:
 # Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
-### Date: 
 
 ### AIM:
 To implement SARIMA model using python.
